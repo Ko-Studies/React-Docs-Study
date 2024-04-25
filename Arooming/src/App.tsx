@@ -1,8 +1,8 @@
+import Week_1 from "./week_1/page/Week_1";
+
 function App() {
   return (
-    <div>
-      <p>App start</p>
-    </div>
+    <Week_1 />
   )
 }
 
