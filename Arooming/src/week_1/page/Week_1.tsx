@@ -3,6 +3,7 @@ import FirstComponent from "./FirstComponent";
 import ImportingAndExporting from "./ImportingAndExporting";
 import WritingMarkup from "../components/WritingMarkup";
 import JSXwithCurlyBraces from "./JSXwithCurlyBraces";
+import ConditionalRendering from "./ConditionalRendering";
 
 const Week_1 = () => {
   return (
@@ -11,6 +12,7 @@ const Week_1 = () => {
       <ImportingAndExporting />
       <WritingMarkup />
       <JSXwithCurlyBraces />
+      <ConditionalRendering />
     </React.Fragment>
   );
 };
