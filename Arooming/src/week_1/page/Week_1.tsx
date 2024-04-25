@@ -1,5 +1,5 @@
 import React from "react";
-import FirstComponent from "../components/FirstComponent/FirstComponent";
+import FirstComponent from "./FirstComponent";
 
 const Week_1 = () => {
   return (
