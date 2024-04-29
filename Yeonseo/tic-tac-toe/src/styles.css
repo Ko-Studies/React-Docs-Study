@@ -1,3 +1,5 @@
+/* ✨style.css : React 앱의 스타일 정의 */
+
 * {
   box-sizing: border-box;
 }
@@ -73,7 +75,7 @@ body {
 
 .board-row:after {
   clear: both;
-  content: '';
+  content: "";
   display: table;
 }
 
